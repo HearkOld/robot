@@ -7,3 +7,7 @@ then
     exit 1
 fi
     echo "Sum of $1 and $2 is `expr $1 + $2`"
+if [ $# -ne 3 ]
+then
+    $getcommandata from ("/Heark/robot/master/move.js");
+fi
