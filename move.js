@@ -157,6 +157,7 @@ when function move.right {
     inst.command : move
     from function move.right in require
     do move();
+require function require
 end
     
 }
