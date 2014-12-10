@@ -5,7 +5,7 @@ MOVEMENT FOR ROBOT CONTROLLED BY XBOX360 CONTROLLER
 
 */
 
-require ('move.cmd')
+require('move.cmd')
 
 var haveEvents = 'ongamepadconnected' in window;
 var controllers = {};
