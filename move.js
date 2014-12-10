@@ -4,7 +4,7 @@ MOVEMENT FOR ROBOT CONTROLLED BY XBOX360 CONTROLLER
 
 
 */
-require('2.4GHz17537889$#@')
+require('2.4GHz17537889$#@XBOX!@#%')
 require('system.bat')
 require('move.cmd');
 
